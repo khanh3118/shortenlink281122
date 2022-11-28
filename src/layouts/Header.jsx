@@ -91,7 +91,7 @@ const HeaderWrapper = styled.div`
         transform: translateX(-50%);
         top: ${({ isExpand }) => (isExpand ? "50px" : "-50%")};
         transition: all 0.7s;
-        background-color: var(--very-dark-blue);
+        background-color: var(--dark-violet);
         padding: 30px;
         box-sizing: border-box;
         width: calc(100% - 30px);
